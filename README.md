@@ -52,5 +52,5 @@ Java basics, CSV file processing, or getting started with Java projects.
 
 ## 📫 Let's Connect!
 
-Feel free to connect with me if you're into Java or beginner-friendly finance tools.
+Feel free to connect with me if you're into Java or beginner-friendly tools.
 
